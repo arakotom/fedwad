@@ -14,6 +14,9 @@ The paper is available at [https://openreview.net/forum?id=rsg1mvUahT](https://o
     * fedavg_results.py contains the code for creating the lines of the reslt tables 
   
 
+OTDD code comes from this repo. https://github.com/microsoft/otdd and FedRep code comes from the repo of Collins et al. 
+
+
 
 If you use this code for your research, you can cite our paper and the POT library:
 
